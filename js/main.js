@@ -3,7 +3,7 @@
 (function($){
 	'use strict';
 
-	// declare actors here
+	// DECLARE ACTORS HERE
 	var $backFallingLeaves = $('#brownLeaf, #orangeLeaf, #redLeaf'),
 		$textLine1 = $('.text-line-1'),
 		$textLine2 = $('.text-line-2'),
